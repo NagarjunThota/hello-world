@@ -2,7 +2,7 @@
 <head>
 <title>Student Registration Form Using Table in HTML5</title>
 <style>
-   
+
 h2{
  font-family: Sans-serif; 
  font-size: 24px;     
