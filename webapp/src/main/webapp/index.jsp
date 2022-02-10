@@ -1,6 +1,6 @@
 <html>
 <head>
-<title>Student Registration Form Using Table in HTML</title>
+<title>Student Registration Form Using Table in HTML5</title>
 <style>
    
 h2{
