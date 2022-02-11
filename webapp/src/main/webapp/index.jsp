@@ -42,7 +42,7 @@ input[type=submit], input[type=reset]{
 </style>
 </head>
 <body>
-<h2>Student Registration Form Using Table in HTML5</h3>
+<h2>Student Registration Form Using Table in HTML</h3>
 <table align="center" cellpadding = "10">
 <!--------------------- First Name ------------------------------------------>
 <tr>
